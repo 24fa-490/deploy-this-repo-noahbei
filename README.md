@@ -26,8 +26,4 @@
 
 # Where am I deployed?
 
-[project deployment](https://deploy-this-repo-noahbei-ga0er3d9r-noahs-projects-c9a002aa.vercel.app/)
-https://deploy-this-repo-noahbei-ga0er3d9r-noahs-projects-c9a002aa.vercel.app/
-
-
-
+https://deploy-this-repo-noahbei.vercel.app/
